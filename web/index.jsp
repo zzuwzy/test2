@@ -9,7 +9,7 @@
 <html>
   <head>
     <title>$Title$</title>
-    <h2>嘿嘿</h2>
+    <h2>嘿嘿2</h2>
   </head>
   <body>
   $END$
